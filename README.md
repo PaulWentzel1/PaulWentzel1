@@ -5,7 +5,7 @@ I currently work in Trading at DWS Group and study Banking & Finance at [Frankfu
 I'm passionate about quant trading, neurotech and astronomy. Feel free to reach out!
 
 #### Current projects
-- [OptiCalc](https://github.com/PaulWentzel1/OptiCalc) - An intuitive and versatile Python Options pricing library. Designed as a niche midpoint between messy Excel/VBA pricers and QuantLib-type libraries.
+- [OptiCalc](https://github.com/PaulWentzel1/OptiCalc) - An intuitive and versatile Python-based options pricing library. Designed as a niche midpoint between messy Excel/VBA pricers and QuantLib-type libraries.
 
 #### You can find me on:
 - [GitHub](https://github.com/PaulWentzel1)
