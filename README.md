@@ -1,8 +1,8 @@
 ## Hi, I'm [Paul](https://www.linkedin.com/in/paul-wentzel/) 👋.
 
-I'm currently working in Trading at DWS Group and studying at Frankfurt School of Finance & Management, graduating in 2027/28.
+I currently work in Trading at DWS Group and study Banking & Finance at [Frankfurt School of Finance & Management](https://www.frankfurt-school.de/en), graduating in 2027/28.
 
-I am Passionate about trading, quant finance, physics, and derivatives. Feel free to reach out!
+I'm passionate about quant trading, neurotech and astronomy. Feel free to reach out!
 
 #### Current projects
 - [OptiCalc](https://github.com/PaulWentzel1/OptiCalc) - An intuitive and versatile Python Options pricing library. Designed as a niche midpoint between messy Excel/VBA pricers and QuantLib-type libraries.
