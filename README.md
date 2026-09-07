@@ -13,6 +13,7 @@ I'm passionate about markets, astrophysics and functional programming. Feel free
 
 #### Current projects
 - [Covenant](https://github.com/PaulWentzel1/Covenant) - Financial Contracts in Haskell
+- [Basis](https://github.com/PaulWentzel1/basis) - A personal monorepo dedicated to various topics which I find interesting
 
 #### Past projects
 - [OptiCalc](https://github.com/PaulWentzel1/OptiCalc) - An intuitive and versatile Python-based options pricing library. Designed as a niche midpoint between messy Excel/VBA pricers and QuantLib-type libraries.
