@@ -12,7 +12,7 @@ I currently work in Trading at DWS Group and study Banking & Finance at [Frankfu
 I'm passionate about markets, astrophysics and functional programming. Feel free to reach out or connect!
 
 #### Current projects
-- [Covenant](https://github.com/PaulWentzel1/Covenant) - Financial Contracts in Haskell
+- [Covenant](https://github.com/PaulWentzel1/Covenant) - Composable Financial Contracts in Haskell
 - [Basis](https://github.com/PaulWentzel1/basis) - A personal monorepo dedicated to various topics which I find interesting
 
 #### Past projects
