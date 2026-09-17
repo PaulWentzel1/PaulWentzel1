@@ -20,7 +20,6 @@ I'm passionate about markets, astrophysics and functional programming. Feel free
 - [Greek Graphs](https://github.com/PaulWentzel1/Greek-Graphs) - A small project to visualize the most common option greeks built using Cython for speedy calculations.
 
 #### You can find me on:
-- [GitHub](https://github.com/PaulWentzel1)
 - [Kaggle](https://www.kaggle.com/paulwentzel05)
 - [LinkedIn](https://www.linkedin.com/in/paul-wentzel/)
 
