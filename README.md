@@ -17,9 +17,13 @@ I'm passionate about markets, astrophysics and functional programming. Feel free
 - [Cromlech](https://github.com/PaulWentzel1/Cromlech) - A collection of monolithic, stb-inspired, zero-dependency modern C headers.
 - [Covenant](https://github.com/PaulWentzel1/Covenant) - Composable Financial Contracts in Haskell
 
+---
+
 #### Past projects
 - [OptiCalc](https://github.com/PaulWentzel1/OptiCalc) - An intuitive and versatile Python-based options pricing library. Designed as a niche midpoint between messy Excel/VBA pricers and QuantLib-type libraries.
 - [Greek Graphs](https://github.com/PaulWentzel1/Greek-Graphs) - A small project to visualize the most common option greeks built using Cython for speedy calculations.
+
+---
 
 #### You can find me on:
 - [Kaggle](https://www.kaggle.com/paulwentzel05)
