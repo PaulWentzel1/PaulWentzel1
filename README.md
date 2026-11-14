@@ -4,16 +4,18 @@
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](https://www.haskell.org/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=white)](https://www.latex-project.org/)
 <!-- [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/) -->
 <!-- [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) -->
 
-I currently work in Trading at DWS Group and study Banking & Finance at [Frankfurt School of Finance & Management](https://www.frankfurt-school.de/en), graduating in 2027/28.
+
+I currently work in Trading at Deutsche Asset Management and study Banking & Finance at [Frankfurt School of Finance & Management](https://www.frankfurt-school.de/en), graduating in 2027/28.
 
 I'm passionate about markets, astrophysics and functional programming. Feel free to reach out or connect!
 
 #### Current projects
+- [Cromlech](https://github.com/PaulWentzel1/Cromlech) - A collection of monolithic, stb-inspired, zero-dependency modern C headers.
 - [Covenant](https://github.com/PaulWentzel1/Covenant) - Composable Financial Contracts in Haskell
-- [Basis](https://github.com/PaulWentzel1/basis) - A personal monorepo dedicated to various topics which I find interesting
 
 #### Past projects
 - [OptiCalc](https://github.com/PaulWentzel1/OptiCalc) - An intuitive and versatile Python-based options pricing library. Designed as a niche midpoint between messy Excel/VBA pricers and QuantLib-type libraries.
