@@ -15,7 +15,7 @@ I'm passionate about markets, astrophysics and functional programming. Feel free
 
 #### Current projects
 - [Cromlech](https://github.com/PaulWentzel1/Cromlech) - A collection of monolithic, stb-inspired, zero-dependency modern C headers.
-- [Covenant](https://github.com/PaulWentzel1/Covenant) - Composable Financial Contracts in Haskell
+- [Covenant](https://github.com/PaulWentzel1/Covenant) - Composable Financial Contracts in Haskell.
 
 ---
 
